@@ -1,4 +1,4 @@
-# 오디오 처리 (Audio processing)
+# 1. 오디오 처리 (Audio processing)
 - 샘플링(Sampling)
 - MU-Law Encoding
 - Waveform
@@ -16,7 +16,7 @@
 - 오디오 필터(Audio Filter)
 
 
-# 오디오 분류 (Audio Classification)
+# 2. 오디오 분류 (Audio Classification)
 1. 머신러닝 이용한 오디오 분류
 - Logistic Regression
 - Support Vector Machine
