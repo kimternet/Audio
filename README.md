@@ -36,3 +36,15 @@
 5. MFCC를 이용한 딥러닝 오디오 분류
 - DNN 모델 구성
 - CNN 모델 구성
+
+# 3. 음성 인식(Speech Recognition)
+1. 음성 인식(Speech Recognition)
+- Speech To Text(STT)
+- 라이브러리 설치
+- Recognizer
+2. 음성 데이터
+3. 음성 인식
+- 영어(English)
+- 중국어(Chinese- Mandarim)
+- 프랑스어(French)
+- 한국어(Korea)
