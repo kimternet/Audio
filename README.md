@@ -48,3 +48,10 @@
 - 중국어(Chinese- Mandarim)
 - 프랑스어(French)
 - 한국어(Korea)
+
+# 4. 화자 분리(Speaker Diarization)
+- UIS-RNN
+- 라이브러리 설치
+- 데이터 다운로드
+- 파라미터 설정
+- UISRNN 모델 학습
