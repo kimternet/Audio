@@ -57,5 +57,6 @@
 - UISRNN 모델 학습
 
 # 5. 음성 합성 (Speech Synthesis)
+- 음성 합성의 원리
 - Tacotron2란?
 - Waveglow란?
