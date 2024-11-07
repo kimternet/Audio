@@ -55,3 +55,7 @@
 - 데이터 다운로드
 - 파라미터 설정
 - UISRNN 모델 학습
+
+# 5. 음성 합성 (Speech Synthesis)
+-Tacotron2란?
+-Waveglow란?
