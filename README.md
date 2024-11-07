@@ -57,5 +57,5 @@
 - UISRNN 모델 학습
 
 # 5. 음성 합성 (Speech Synthesis)
--Tacotron2란?
--Waveglow란?
+- Tacotron2란?
+- Waveglow란?
